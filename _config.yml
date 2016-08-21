@@ -1,0 +1,14 @@
+layout_spectrum: 0.031577147310599685
+typography_spectrum: 0.268399414839223
+color:
+  brandStrength: 0.023431182838976383
+  lightness: 0.37685004714876413
+  saturation: 0.5454753572121263
+  rhythmicContrast: 0.9492500931955874
+  brandColors:
+    - '#FFFFFF'
+    - '#00ADF8'
+    - '#FF2300'
+    - '#808287'
+    - '#FF9E61'
+name: WifiPalm
